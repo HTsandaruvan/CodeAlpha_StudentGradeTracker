@@ -62,10 +62,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Screenshots (If available)
-_Add screenshots of the application here to help users understand the interface and its features better._
-
----
-
-Feel free to edit any section above to add more details about the project or your own modifications.
 
